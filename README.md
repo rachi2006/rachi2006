@@ -7,7 +7,8 @@
 --------------------------------------------------
 
 ## 🧠 Currently Learning
-- Python
+- Python, Numpy
+- -Software Engineering
 - Git & GitHub
 - AI & Data Science
 
@@ -16,6 +17,7 @@
 ## 🛠 Skills
 • C language  
 • Python  
+• Little operating system
 • Problem Solving  
 • Git & GitHub  
 • VS Code  
