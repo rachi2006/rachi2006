@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Rachith Kumar
 
-<!--
-**rachi2006/rachi2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year CSE Student (AI & DS)
+💻 Passionate about Programming & Technology
+🚀 Future Software Engineering / AI Engineer
 
-Here are some ideas to get you started:
+--------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- Python
+- Git & GitHub
+- AI & Data Science
+
+--------------------------------------------------
+
+## 🛠 Skills
+• C language  
+• Python  
+• Problem Solving  
+• Git & GitHub  
+• VS Code  
+
+--------------------------------------------------
+
+## 📚 My Goals (2026)
+✔ Become strong in data Manipulation  
+✔ Build AI & Python projects  
+✔ Upload projects regularly on GitHub  
+✔ Get internship in 3rd year  
+✔ Become placement ready  
+
+--------------------------------------------------
+
+## 📂 Projects I Will Upload
+- C programming projects
+- Python mini projects
+- AI & Data Science projects
+- 
+--------------------------------------------------
+
+## 🌐 Connect with me
+#Loading....
