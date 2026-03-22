@@ -17,17 +17,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="700" height="350"/>
 </p>
 
-<h1 align="center">Rachith Kumar</h1>
-
-<h3 align="center">🎬 Crafting Code Like Cinema | Python Full Stack Developer</h3>
-
-<br>
-
-<h2 align="center">🎬 Crafting Code Like Cinema</h2>
-
-<p align="center">
-  <i>Building experiences, not just applications.</i>
-</p>
 
 <br>
 
@@ -39,7 +28,7 @@
 * 💻 Python Full Stack Developer
 * 🎬 Cinematography Creator
 * 📊 Exploring Data Science
-* 🚀 Building systems like **DevTrack**
+* 🚀 Building projects like Backend frameworks
 
 ---
 
