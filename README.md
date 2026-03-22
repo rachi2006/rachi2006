@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated/code.gif" width="300"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Rachith Kumar</h1>
 <h3 align="center">🚀 BTech Student | Python Full Stack Developer | Data Science Enthusiast</h3>
 
