@@ -50,13 +50,6 @@
 </p>
 
 ---
-
-## 🚀 Flagship Project: DevTrack
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachi2006&repo=skills_project&theme=tokyonight&hide_border=true" />
-</p>
-
 💡 A developer productivity system to:
 
 * Track learning progress
@@ -78,14 +71,16 @@
 
 ---
 
-## 📊 GitHub Intelligence
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachi2006&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachi2006&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=rachi2006&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rachi2006&theme=tokyonight" height="180"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachi2006&layout=compact&theme=tokyonight"/>
+</p>
 ---
 
 ## 📈 Growth Timeline
