@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Artificial Intelligence and Data Science student;DSA+Enthusiast;Python+Developer;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+artifical+intelligence+engineer;DSA+Enthusiast;Python+Developer;Future+Software+Engineer" />
 </p>
 
 
