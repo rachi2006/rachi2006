@@ -4,7 +4,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Rachith Kumar</h1>
-<h3 align="center">🚀 BTech Student | Python Full Stack Developer | Data Science Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;DSA+Enthusiast;Python+Developer;Future+Software+Engineer" />
+</p>
 
 ---
 
