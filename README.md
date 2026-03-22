@@ -1,45 +1,70 @@
-# Hi 👋 I'm Rachith Kumar
+<h1 align="center">Hi 👋, I'm Rachith Kumar</h1>
+<h3 align="center">🚀 BTech Student | Python Full Stack Developer | Data Science Enthusiast</h3>
 
-🎓 2nd Year CSE Student (AI & DS)
-💻 Passionate about Programming & Technology
-🚀 Future Software Engineering / AI Engineer
+---
 
---------------------------------------------------
+### 🌟 About Me
 
-## 🧠 Currently Learning
-- Python, Numpy
-- -Software Engineering
-- Git & GitHub
-- AI & Data Science
+* 🎓 Studying at Parul University
+* 💻 Learning Flask, Django & MongoDB
+* 📊 Interested in Data Science
+* 🎯 Building projects like DevTrack
 
---------------------------------------------------
+---
 
-## 🛠 Skills
-• C language  
-• Python  
-• Little operating system
-• Problem Solving  
-• Git & GitHub  
-• VS Code  
+### ⚡ Tech Stack
 
---------------------------------------------------
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,flask,django,mongodb,html,css,js,git,github,vscode" />
+</p>
 
-## 📚 My Goals (2026)
-✔ Become strong in data Manipulation  
-✔ Build AI & Python projects  
-✔ Upload projects regularly on GitHub  
-✔ Get internship in 3rd year  
-✔ Become placement ready  
+---
 
---------------------------------------------------
+### 📊 GitHub Stats
 
-## 📂 Projects I Will Upload
-- C programming projects
-- Python mini projects
-- AI & Data Science projects
-- 
---------------------------------------------------
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rachi2006&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rachi2006&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🌐 Connect with me
-:linkedin:
-Email
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachi2006&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rachi2006&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+* 🚀 DevTrack – Developer Progress Tracker
+* 📌 Flask Login System with MongoDB
+* 📊 Data Science Mini Projects
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+### 🐍 Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
