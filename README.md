@@ -79,7 +79,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔹 learn_skills – Developer Growth System
 
