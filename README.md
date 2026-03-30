@@ -60,17 +60,14 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rachi2006&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rachi2006&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rachi2006&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=rachi2006&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rachi2006&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachi2006&layout=compact&theme=tokyonight"/>
-</p>
----
 
 ## 📈 Growth Timeline
 
@@ -85,8 +82,9 @@
 ### 🔹 learn_skills – Developer Growth System
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachi2006&repo=learn_skills&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rachi2006&repo=learn_skills&theme=tokyonight&hide_border=true" />
 </p>
+
 
 💡 A productivity dashboard for developers:
 
