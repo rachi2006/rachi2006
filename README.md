@@ -26,7 +26,6 @@
 
 * 🎓 BTech Student at Parul University
 * 💻 Python Full Stack Developer
-* 🎬 Cinematography Creator
 * 📊 Exploring Data Science
 * 🚀 Building projects like Backend frameworks
 
