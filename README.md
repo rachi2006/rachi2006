@@ -96,21 +96,6 @@
 
 ---
 
-### 🔹 Flask Login System (MongoDB)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachi2006&repo=login_system&theme=tokyonight&hide_border=true" />
-</p>
-
-🔐 Authentication system with:
-
-* User registration & login
-* Password reset
-* MongoDB integration
-* Secure backend logic
-
----
-
 ### 🔹 Data Science Mini Projects
 
 📊 Exploring:
