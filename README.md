@@ -151,9 +151,3 @@
 </p>
 
 
-<p align="center">
-  <a href="#-featured-projects">
-    <img src="https://img.shields.io/badge/🚀%20Explore%20Projects-1f6feb?style=for-the-badge" />
-  </a>
-</p>
-
