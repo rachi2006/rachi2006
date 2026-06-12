@@ -138,4 +138,22 @@
 </p>
 
 ---
+<h3 align="center">🎬 Crafting Code Like Cinema | Python Full Stack Developer</h3>
+
+<p align="center">
+  <a href="https://github.com/rachi2006?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀-View%20Projects-1f6feb?style=for-the-badge" />
+  </a>
+  
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/📧-Email%20Me-d14836?style=for-the-badge" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="#-featured-projects">
+    <img src="https://img.shields.io/badge/🚀%20Explore%20Projects-1f6feb?style=for-the-badge" />
+  </a>
+</p>
 
