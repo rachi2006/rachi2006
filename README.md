@@ -70,11 +70,27 @@
 </p>
 
 
-## 📈 Growth Timeline
+## 📈 Activity Overview
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachi2006&theme=tokyo-night&hide_border=true" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachi2006&theme=tokyo-night&hide_border=true&area=true"
+     width="400"
+     height="350"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachi2006&theme=tokyonight"
+     width="400"
+     height="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
