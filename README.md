@@ -4,6 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rachith%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 <br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rachi2006&label=PROFILE+VISITORS&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/rachi2006?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/rachi2006?affiliations=OWNER&style=for-the-badge&color=yellow" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+artifical+intelligence+and;Data+Science;DSA+Enthusiast;Python+Developer;Future+Software+Engineer" />
