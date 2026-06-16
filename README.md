@@ -68,7 +68,7 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rachi2006&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rachi2006&show_icons=true&theme=tokyonight"  height="150"/>
   <br>
   <img src="https://streak-stats.demolab.com?user=rachi2006&theme=tokyonight&hide_border=true" height="170"/>
   <br>
