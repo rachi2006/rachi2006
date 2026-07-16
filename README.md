@@ -68,7 +68,16 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachi2006&show_icons=true&theme=tokyonight"  height="150"/>
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachi2006&theme=tokyonight" height="180"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rachi2006&theme=tokyonight" height="180"/>
+</td>
+</tr>
+</table>
   <br>
   <img src="https://streak-stats.demolab.com?user=rachi2006&theme=tokyonight&hide_border=true" height="170"/>
   <br>
