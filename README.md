@@ -69,18 +69,8 @@
 > **Explore my work, projects, skills, and developer journey.**
 
 <p align="center">
-  <a href="https://rachi2006.github.io/portfolio/" target="_blank"
-     style="display:inline-block;
-            padding:14px 24px;
-            border:1px solid #1f2937;
-            border-radius:10px;
-            background:#166534;
-            color:#d1d5db;
-            text-decoration:none;
-            font-family:monospace;
-            font-weight:bold;
-            font-size:16px;">
-    View Portfolio ↗
+  <a href="https://rachi2006.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🚀%20VIEW%20PORTFOLIO%20↗-1f2937?style=for-the-badge&labelColor=1f2937&color=1f2937" alt="View Portfolio">
   </a>
 </p>
 ---
