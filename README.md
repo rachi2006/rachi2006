@@ -64,6 +64,16 @@
 </p>
 
 ---
+## 🚀 Portfolio
+
+> **Explore my work, projects, skills, and developer journey.**
+
+<p align="center">
+  <a href="https://rachi2006.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View My Portfolio">
+  </a>
+</p>
+---
 
 ## 📊 GitHub Dashboard
 
