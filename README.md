@@ -118,9 +118,10 @@
 <td align="center">
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rachi2006&theme=tokyonight&utcOffset=5.5"
+  src="https://github.pumbas.net/api/contributions/rachi2006?colour=00F7FF&bgColour=1A1B27&dotColour=FFFFFF"
   width="400"
   height="350"
+  alt="GitHub Contribution Line Graph"
 />
 
 </td>
