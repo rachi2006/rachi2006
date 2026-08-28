@@ -91,13 +91,21 @@
 </table>
 
 <br>
-
-<img src="https://streak-stats.demolab.com?user=rachi2006&theme=tokyonight&hide_border=true" height="170"/>
-
+<p
+<img 
+  src="https://github-readme-streak-stats-eight.vercel.app?user=rachi2006&theme=tokyonight"
+  height="170"
+  alt="GitHub Streak"
+/>
+</p>
 <br><br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rachi2006&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachi2006&theme=tokyonight"
+    alt="Repositories per Language"
+  />
+</p>
 </div>
 
 
@@ -105,54 +113,29 @@
 
 <table align="center">
 <tr>
+
 <td align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachi2006&theme=tokyo-night&hide_border=true&area=true"
-     width="400"
-     height="350"/>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rachi2006&theme=tokyonight&utcOffset=5.5"
+  width="400"
+  height="350"
+/>
 
 </td>
 
 <td align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachi2006&theme=tokyonight"
-     width="400"
-     height="350"/>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachi2006&theme=tokyonight"
+  width="400"
+  height="350"
+/>
 
 </td>
+
 </tr>
 </table>
-
----
-
-## 🚀 Projects
-
-### 🔹 learn_skills – Developer Growth System
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rachi2006&repo=learn_skills&theme=tokyonight&hide_border=true" />
-</p>
-
-
-💡 A productivity dashboard for developers:
-
-* 📊 Track learning progress
-* 🔥 Maintain coding streaks
-* 🧠 Store notes & concepts
-* 📈 Monitor contributions
-
----
-
-### 🔹 Data Science Mini Projects
-
-📊 Exploring:
-
-* Data analysis
-* Visualization
-* Basic ML models
-
-(Upload these soon 🚀)
-
 
 ---
 
