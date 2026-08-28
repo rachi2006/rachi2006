@@ -77,8 +77,6 @@
 
 ## 📊 GitHub Dashboard
 
-<div align="center">
-
 <table>
 <tr>
 <td align="center">
@@ -89,9 +87,8 @@
 </td>
 </tr>
 </table>
-
 <br>
-<p
+<p align="center">
 <img 
   src="https://github-readme-streak-stats-eight.vercel.app?user=rachi2006&theme=tokyonight"
   height="170"
@@ -99,14 +96,6 @@
 />
 </p>
 <br><br>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachi2006&theme=tokyonight"
-    alt="Repositories per Language"
-  />
-</p>
-</div>
 
 
 ## 📈 Activity Overview
