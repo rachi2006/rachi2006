@@ -77,25 +77,37 @@
 
 ## 📊 GitHub Dashboard
 
+<div align="center">
+
 <table>
 <tr>
+
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachi2006&theme=tokyonight" height="180"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachi2006&theme=tokyonight"
+    height="180"
+  />
 </td>
+
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rachi2006&theme=tokyonight" height="180"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rachi2006&theme=tokyonight"
+    height="180"
+  />
 </td>
+
 </tr>
 </table>
+
 <br>
-<p align="center">
+
 <img 
   src="https://github-readme-streak-stats-eight.vercel.app?user=rachi2006&theme=tokyonight"
   height="170"
   alt="GitHub Streak"
 />
-</p>
-<br><br>
+
+</div>
 
 
 ## 📈 Activity Overview
