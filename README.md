@@ -5,7 +5,6 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rachi2006&label=PROFILE+VISITORS&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/rachi2006?label=Followers&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/stars/rachi2006?affiliations=OWNER&style=for-the-badge&color=yellow" />
 </p>
@@ -157,8 +156,8 @@
 <h3 align="center">🎬 Crafting Code Like Cinema | Python Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/rachi2006?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀-View%20Projects-1f6feb?style=for-the-badge" />
+  <a href="https://github.com/rachi2006/my_projects/blob/main/README.md">
+    <img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PROJECTS-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=020617">
   </a>
   
   <a href="mailto:your-email@gmail.com">
