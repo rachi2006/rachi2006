@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+artifical+intelligence+and;Data+Science;DSA+Enthusiast;Python+Developer;Future+Software+Engineer" />
 </p>
----
+
 <br>
 <p align="center">
   <img src="./avi-ascii.svg" width="500" alt="ASCII portrait"/>
