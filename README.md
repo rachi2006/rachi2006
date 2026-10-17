@@ -16,8 +16,8 @@
 
 <br>
 <p align="center">
-  <img src="./avi-ascii.svg" width="500" alt="ASCII portrait"/>
-  <img src="./info-terminals.svg" width="500" alt="Personal information"/>
+  <img src="./avi-ascii.svg" width="400" alt="ASCII portrait"/>
+  <img src="./info-terminals.svg" width="400" alt="Personal information"/>
 </p>
 
 ---
