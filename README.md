@@ -1,8 +1,8 @@
 <!-- 🎬 CINEMATIC BANNER -->
-
-<p align="center">
+<img src="https://www.gitskins.com/api/section/social?username=rachi2006&theme=github-dark&style=aura" alt="GitSkins Animated Social Row" width="860" />
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rachith%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+</p> -->
 <br>
 <p align="center">
   <img src="https://img.shields.io/github/followers/rachi2006?label=Followers&style=for-the-badge&color=blue" />
