@@ -63,11 +63,10 @@
 > **Explore my work, projects, skills, and developer journey.**
 
 <p align="center">
-  <a href="https://rachi2006.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🚀%20VIEW%20PORTFOLIO%20↗-1f2937?style=for-the-badge&labelColor=1f2937&color=1f2937" alt="View Portfolio">
+  <a href="https://rachi2006.github.io/portfolio3/">
+    <img src="https://raw.githubusercontent.com/rachi2006/rachi2006/main/assets/portfolio-button.svg" alt="Open my portfolio" width="280" />
   </a>
 </p>
----
 
 ## 📊 GitHub Dashboard
 
