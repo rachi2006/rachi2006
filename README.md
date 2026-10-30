@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://rachi2006.github.io/portfolio3/">
-    <img src="https://raw.githubusercontent.com/rachi2006/rachi2006/main/assets/portfolio-button.svg" alt="Open my portfolio" width="280" />
+    <img src="https://rachi2006.github.io/portfolio3/assets/portfolio-button.svg" alt="Open my portfolio" width="280" />
   </a>
 </p>
 
